@@ -1,5 +1,6 @@
 # Simulador de aplicações financeiras e crédito
-Neste repositório estão os arquivos necessários para acessar o projeto Simulador de aplicações financeiras e crédito.
+Este repositório apresenta o projeto de software de Simuladoção de aplicações financeiras e crédito, seguindo todas as boas práticas da Engenharia de Software.
+
 
 ## Sumário
 
@@ -36,3 +37,25 @@ para sua execução (por exemplo, placa de vídeo dedicada):
 ## Bibliografia
 
 
+
+## Checklist
+
+- [ ] Protótipo no Figma
+- [x] [Diagrama de classe](https://ctism-prof-henry.github.io/exemplo-projeto-software/docs/diagramas)
+- [x] [Diagrama de caso de uso](https://ctism-prof-henry.github.io/exemplo-projeto-software/docs/diagramas)
+- [x] Documentação no GitHub Pages com MKDocs ([código](docs), [executando](https://ctism-prof-henry.github.io/exemplo-projeto-software/docs))
+- [x] [Testes unitários com QUnit](website/static/js/test/definitions.test.js)
+- [x] linter com ESLint
+- [x] [Produto final (software)](https://ctism-prof-henry.github.io/exemplo-projeto-software)
+- [x] GitHub Actions para rodar tudo automaticamente
+  - [x] [documentação e deploy do site](.github/workflows/documentation.yml)
+  - [x] [testes](.github/workflows/tests.yml)
+  - [x] [linter](.github/workflows/linter.yml)
+
+## Configuração
+
+Confira as instruções de configuração em https://ctism-prof-henry.github.io/exemplo-projeto-software/docs
+
+## Execução
+
+Confira o site rodando em https://ctism-prof-henry.github.io/exemplo-projeto-software
