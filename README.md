@@ -25,27 +25,14 @@ para sua execução (por exemplo, placa de vídeo dedicada):
 
 ## Instalação
 
-Descreva aqui as instruções para instalação das ferramentas para execução do código-fonte: 
-
-```bash
-sudo apt-get install nano
-```
 
 ## Instruções de Uso
 
-Descreva aqui o passo-a-passo que outros usuários precisam realizar para conseguir executar com sucesso o código-fonte
-deste projeto:
-
-```bash
-echo "olá mundo!"
-```
 
 ## Contato
 
-O repositório foi originalmente desenvolvido por Fulano: [fulano@ufsm.br]()
+
 
 ## Bibliografia
 
-Adicione aqui entradas numa lista com a documentação pertinente:
 
-* [Documentação coplin-db2](https://pypi.org/project/coplin-db2/)
