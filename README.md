@@ -29,15 +29,25 @@ Este repositório apresenta o projeto de software de Simuladoção de aplicaçõ
 ## Checklist
 
 Protótipo no Figma
+
 Diagrama de classe
+
 Diagrama de caso de uso
+
 Documentação no GitHub Pages com MKDocs 
+
 Testes unitários com QUnit
+
 linter com ESLint
+
 Produto final (software)
+
 GitHub Actions para rodar tudo automaticamente
+
 documentação e deploy do site
+
 testes
+
 linter
 
 ## Configuração
