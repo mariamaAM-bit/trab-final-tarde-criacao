@@ -1,5 +1,5 @@
 # Simulador de aplicações financeiras e crédito
-Este repositório apresenta o projeto de software de Simuladoção de aplicações financeiras e crédito, seguindo todas as boas práticas da Engenharia de Software.
+Este repositório apresenta o projeto de software de Simulação de aplicações financeiras e crédito, seguindo todas as boas práticas da Engenharia de Software.
 
 
 ## Sumário
