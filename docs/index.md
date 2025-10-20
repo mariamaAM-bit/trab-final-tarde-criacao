@@ -1,5 +1,7 @@
 
-O Projeto de software feito no editor de texto Visual Studio Code. Para este foi construído uma página inicial estática utilizando os conhecimentos de boas práticas de engenharia de software e os códicos HTML, CSS e JavaScript. 
+O Projeto de software feito no editor de texto Visual Studio Code. 
+
+Para este foi construído uma página inicial estática utilizando os conhecimentos de boas práticas de engenharia de software e os códicos HTML, CSS e JavaScript. 
 
 O layout da página inicial possui em sua interface alguns componentes como: menu de navegação lateral, ícones do menu com animação, seção de conteúdo destaque para os produtos e otimização para mobile. 
 
@@ -14,6 +16,7 @@ Assim o usuário é direcionado a escolher na barra de opções o produto, coloc
 Após isto clica em fazer o orçamento das aplicações financeiras e crédito.
 
 Porfim, o usuário tem a opção de começar a investir para gerar o resultado da simulação.
+
 
 
 
