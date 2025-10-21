@@ -1,0 +1,18 @@
+flowchart TD 
+    %% TD - Top down (diagrama sai na vertical)
+    %% LR - left rigth (diagrama sai na horizontal)
+    user["👤 usuário"]
+    adm["🧞‍♂️administrador"]
+
+    subgraph "sistema"
+    Escolhe(["escolhe o tipo de produto"])
+    relatorio([gera relatório])
+    gerencia([gerencia usuários])
+end
+
+    adm -->relatorio
+    adm -->gerencia
+
+    user --"acessa" -->Escolhe
+    user -->relatorio
+  
