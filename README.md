@@ -1,4 +1,4 @@
-# Simulador de aplicações financeiras e crédito
+# Simulador de parcelamento no crédito/aplicações financeiras 
 Este repositório apresenta o projeto de software de Simulação de aplicações financeiras e crédito, seguindo todas as boas práticas da Engenharia de Software.
 
 
