@@ -72,6 +72,26 @@ window.addEventListener("resize", () => {
   }
 });
 
+
+  const picker = new easepick.create({
+  element: document.getElementById('select-datas'),
+  format: 'DD/MM/YYYY',
+  lang: 'pt-BR',
+  css: [
+  'https://cdn.jsdelivr.net/npm/@easepick/bundle@1.2.1/dist/index.css',
+  ],
+  plugins: ['RangePlugin'],
+  RangePlugin: {
+  tooltip: true,
+  delimiter: ' até ',
+  locale: {
+  one: 'dia',
+  other: 'dias',
+},
+},
+});
+</script>
+
 // ========================================
 // SIDEBAR ACTIVE LINK
 // ========================================
@@ -116,4 +136,3 @@ window.addEventListener('scroll', setActiveLink);
 
 // Set initial active link
 setActiveLink();
-
