@@ -1,4 +1,3 @@
-
 // Utility functions
 function formatCurrency(value) {
     return new Intl.NumberFormat('pt-BR', {
